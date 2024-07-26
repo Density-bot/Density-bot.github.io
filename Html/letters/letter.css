@@ -1,0 +1,36 @@
+*{
+	background: lightblue;
+}
+
+.align-right{
+	text-align: right;
+}
+
+.container{
+	padding: 15px;
+}
+
+.align-center{
+	text-align: center;
+}
+
+.bottom{
+	border-bottom: 5px solid blue;
+}
+
+.pl-20{
+	padding-left: 20px;
+}
+
+.justify{
+	text-align: justify;
+}
+
+.font{
+    font-size: 25px;
+}
+
+.indent{
+	text-indent: 30px;
+}
+
