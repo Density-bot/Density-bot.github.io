@@ -1,0 +1,54 @@
+body{
+	background: lightgreen;
+}
+
+div{
+	border: 10px solid black;
+	border-radius: 15px;
+	width: 1000px;
+	margin: auto;
+	margin-top: 200px;
+}
+
+img{
+	width: 150px;
+	height: 150px;
+	margin-left: 400px;
+	margin-top: 100px;
+}
+
+#name{
+	margin-left: 60px;
+	font-size: 50px;
+}
+
+#pmb{
+	font-size: 40px;
+	margin-left: 300px;
+
+}
+
+#state{
+	margin-left: 380px;
+
+}
+
+#country{
+	margin-left: 410px;
+
+}
+#siwes{
+	margin-top: 100px;
+	margin-left: 60px;
+	font-size: 35px;
+
+}
+#siwess{
+	margin-left: 400px;
+
+}
+#train{
+	margin-top: 120px;
+	font-size: 50px;
+    margin-left: 200px;
+}

@@ -1,0 +1,57 @@
+body{
+	background: blueviolet;
+	height: 100vh;
+	position: absolute;
+	margin-left: 45%;
+	font-family: sans-serif;
+}
+
+.f-siteDetector{
+	color: white;
+	margin-left: 25px;
+}
+
+.bdw{
+	background: white;
+	border-radius: 10px;
+	padding: 10px 15px;
+	height: 49vh;
+}
+
+#wel,#Emp{
+	text-align: center;
+}
+
+.email,.pass{
+	margin-left: 20px;
+	height: 28px;
+	width: 220px;
+	border-radius: 8px;
+}
+
+.email{
+	background: lightgrey;
+}
+
+.pass{
+  border: 2px solid blueviolet;
+}
+
+#sign{
+	background: blueviolet;
+	color: white;
+	text-align: center;
+	border-radius: 18px;
+	padding: 10px 10px;
+	width: 200px;
+	margin-left: 22px;
+}
+
+#dd{
+	color: grey;
+}
+
+#bdc{
+	text-decoration: none;
+	color: white;
+}

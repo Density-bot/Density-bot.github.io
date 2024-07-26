@@ -1,0 +1,40 @@
+*{
+	background: white;
+	font-family: sans-serif;
+}
+span{
+	color: crimson;
+}
+#dd{
+	border: 15px solid crimson;
+	height: 450px;
+	width: 300px;
+	margin-left: 40%;
+	padding: 65px 65px;
+}
+#img1{
+	border-radius: 9pc;
+	padding: 140px 140px;
+	width: 2px;
+	height: 2px;
+	border: 2px solid crimson;
+}
+
+#img{
+	/*padding: 14px 14px;*/
+	height: 220px;
+	width: 220px;
+	margin-left: -110px;
+	margin-top: -110px;
+	border-radius: 8pc;
+}
+#exp{
+	background: crimson;
+	font-weight: bolder;
+	color: gold;
+	border-radius: 20px;
+	text-align: center;
+	height: 30px;
+	font-size: 20px;
+	padding: 10px 10px;
+}

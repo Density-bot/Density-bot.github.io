@@ -1,0 +1,182 @@
+
+@Media screen and (min-width: 500px) {
+
+*{
+   margin: 0px;
+   padding: 0px;
+   background: ghostwhite;
+}
+
+
+/*.icon{
+	position: relative;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 50px;
+	height: 50px;
+	color: #333333;
+	background: #dddddd;
+	border: none;
+	outline: none;
+	border-radius: 50%;
+}
+
+.icon: hover{
+  cursor: pointer;
+}
+
+.icon: active{
+	background: #cccccc;
+}
+
+.badge{
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	width: 25px;
+	height: 25px;
+	background: red;
+	color: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+}*/
+
+.notification{
+	background-color: blueviolet;
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+	position: relative;
+	display: inline-block;
+	border-radius: 2px;
+}
+
+#not{
+	font-size: 0.75em;
+	background-color: blueviolet;
+}
+
+/*.notification:hover{
+	background: purple;
+}
+*/
+.notification .badge{
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	padding: 5px 10px;
+	border-radius: 50%;
+	background: red;
+	color: white;
+}
+
+.badge{
+	font-size: 0.6em;
+}
+
+ .badgeIn{
+ 	font-size: 0.6em;
+ }
+
+
+
+
+.inbox{
+	background-color: blueviolet;
+	color: white;
+	text-decoration: none;
+	padding: 10px 20px;
+	position: relative;
+	display: inline-block;
+	border-radius: 2px;
+}
+
+#Inb{
+	font-size: 0.75em;
+	background-color: blueviolet;
+}
+
+/*.notification:hover{
+	background: purple;
+}
+*/
+.inbox .badgeIn{
+	position: absolute;
+	top: -10px;
+	right: -10px;
+	padding: 5px 10px;
+	border-radius: 50%;
+	background: red;
+	color: white;
+}
+
+
+li{
+	margin-right: 15px;
+	display: inline;
+	background: #ccc;
+}
+
+#div{
+    background: #ccc;
+    height: 12%;
+    position: fixed;
+    width: 100%;
+}
+.Icon{
+    text-decoration: none;
+    background: blueviolet;
+    color: white;
+    border-radius: 48%;
+    padding:15px 20px;
+    /*float: right;*/
+}
+
+.Icon:hover{
+   background-color: purple;
+}
+
+#icon{
+	float: right;
+	margin-top: 2em;
+	background: #ccc;
+
+}
+
+#img{
+	background: #ccc;
+	padding: 5px 10px;
+	margin-left: 10px;
+	margin-top: 5px;
+	float: left;
+}
+
+#Search{
+	background: #ccc;
+	padding: 5px 10px;
+}
+
+.Search{
+	/*background: #ccc;*/
+	font-size: 17px;
+	font-weight: bold;
+	font-family: cursive;
+	margin-top: 17px;
+	width: 180px;
+	height: 25px;
+	padding: 5px 10px;
+	margin-left: 30px;
+	border-radius: 10px;
+	border: 1px solid blueviolet;
+}
+
+#class{
+	padding-top: 80px;
+}
+
+#dash{
+   margin-left: 50px;
+}
